@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="Google App Engine SDK" type="python">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/google-cloud-sdk-285.0.1-linux-x86_64/google-cloud-sdk/platform/google_appengine" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
